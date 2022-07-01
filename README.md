@@ -5,7 +5,7 @@ Fb Public,Friendslist,And  File Cloning, All Tyep Pass Cracking.
 
 
 
-<h1 align="center"> |MR.JAMES|</h1>
+<h1 align="center"> |Abir|</h1>
 
 <h2 align="center">  FB ALL TYEP FILE CLONING  TOOL </h2>
 
@@ -30,9 +30,9 @@ $ pip install mechanize
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/James404-cyber/FileClone-All.git
-$ cd FileClone-All
-$ python librun.py
+ git clone https://github.com/James404-cyber/FileClone-All.git
+ cd FileClone-All
+ python2 fuck_james.py
 ```
 
 # Single Command 
