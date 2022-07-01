@@ -32,7 +32,7 @@ $ pip install bs4
 $ pkg install git
  git clone https://github.com/James404-cyber/FileClone-All.git
  cd FileClone-All
- python2 fuck_james.py
+ python librun.py
 ```
 
 # Single Command 
