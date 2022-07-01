@@ -6,4 +6,4 @@ if 'arm' in arc:
 elif 'aarch' in arc:
 	__import__("Fil")._site_view_()
 else:
-	exit(f' Unknow device machine {arc}')
+	exit(f' Unknow device machine 
